@@ -228,12 +228,6 @@
     "repo": "deno",
     "desc": "A secure runtime for JavaScript and TypeScript."
   },
-  "countryfinder": {
-    "type": "github",
-    "owner": "yonas-g",
-    "repo": "country-list",
-    "desc": "🦕 module to get a list of world countries and their information."
-  },
   "coward": {
     "type": "github",
     "owner": "fox-cat",
@@ -668,12 +662,6 @@
     "owner": "allain",
     "repo": "expect",
     "desc": "A deno implementation of expect in order to write tests in a more jest like style."
-  },
-  "fastro": {
-    "type": "github",
-    "owner": "fastrojs",
-    "repo": "fastro-server",
-    "desc": "deno fast web framework"
   },
   "fen": {
     "type": "github",
@@ -1324,12 +1312,6 @@
     "repo": "noble-ripemd160",
     "desc": "RIPEMD160, a cryptographic hash function."
   },
-  "rsync_parser": {
-    "type": "github",
-    "owner": "daniel-araujo",
-    "repo": "deno-rsync-parser",
-    "desc": "Parses output of rsync program."
-  },
   "rubico": {
     "type": "github",
     "owner": "richytong",
@@ -1622,6 +1604,12 @@
     "owner": "schotsl",
     "repo": "uwuifier",
     "desc": "This very lightweight package allows you to uwuify any sentence or word (excluding URL's) with many configurable parameters while giving you access to many vewy kawaii sentences and faces"
+  },
+  "validator": {
+    "type": "github",
+    "owner": "ryo-ma",
+    "repo": "deno-validator",
+    "desc": "🦕A simple string validation for deno"
   },
   "value_schema": {
     "type": "npm",
